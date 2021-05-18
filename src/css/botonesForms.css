@@ -1,0 +1,31 @@
+.form{
+  border-radius:5px;
+  border: 2px solid;
+  border-color: rgba(61, 136, 67, 0.959);
+  padding: 16px;
+  margin:auto;
+}
+
+.contenido {
+  
+        border:1px solid rgb(211, 209, 209);
+          border-radius:2px;
+          margin:8px 0;
+          outline:none;
+          padding:6px;
+          box-sizing:border-box;
+          transition:.3s;
+          font-family: "Century Gothic", CenturyGothic, sans-serif;
+      }
+      .contenido:focus{
+        border-color:rgba(53, 151, 97, 0.801);
+          box-shadow:0 0 4px 0 rgb(106, 240, 88);
+      }
+      button, input{
+        font-family: "Century Gothic", CenturyGothic, sans-serif;
+      }
+
+      
+h3, h4{
+  text-align:center;
+}

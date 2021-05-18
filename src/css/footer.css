@@ -1,0 +1,17 @@
+
+p{
+    font-family: "Century Gothic";
+    margin:auto;
+    text-align:center;
+    font-size: medium;
+}
+  
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+  }
+
+  .link { color: #ffffff; } /* CSS link color (red) */
+  .link:hover { color: #03bad3; } /* CSS link hover (green) */

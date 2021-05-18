@@ -1,0 +1,19 @@
+.navbar-expand-custom {
+    
+  font-family: "Century Gothic","Trebuchet MS",Arial,sans-serif;
+  display: flex;
+   
+}
+
+
+img.logo{
+  width: 90px; 
+  height: 90px;
+  
+ 
+}
+h2 {
+  font-weight: 350;
+  font-family: "Century Gothic", CenturyGothic, sans-serif;
+  text-align: center;
+}
